@@ -1,0 +1,74 @@
+<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700" rel="stylesheet">
+body{
+font-family: 'Raleway', sans-serif;
+}
+
+#portada{
+	
+}
+
+#portada h4{
+	color: #000000
+	 
+}
+
+#about-me {
+	text-align: center;
+	padding: 45px 0;
+	
+}
+
+#galería{
+	color: #EF3F3F;
+	padding: 40px 0;
+	
+}
+
+
+
+#about-me h2{
+	color: #EF3F3F;
+	padding: 15px 0;
+}
+
+#marcas h2{
+	color: #EF3F3F; 
+	margin-bottom: 35px; 
+}
+
+#marcas{
+	text-align:  center;
+	padding: 35px 0;
+	
+}
+
+
+
+#team-ciguenza h2{
+	color: #EF3F3F;
+}
+
+
+#marcas logos1{
+	margin-top: 25px;
+}
+
+
+footer{
+	background-color: #F48486;
+		color: #FFFFFF;
+	
+	
+}
+
+#content{
+	text-align: left;
+}
+
+
+#page-header h1{
+	color:#F48486; 
+}
+
+
+
